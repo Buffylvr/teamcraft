@@ -1,1 +1,10 @@
 This is Hello ~
+
+
+git init
+
+git remote add origin https://github.com/Buffylvr/ffxiv-teamcraft.git
+
+git pull origin master
+
+git push --set-upstream origin master
